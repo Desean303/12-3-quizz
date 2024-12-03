@@ -1,0 +1,7 @@
+char choice;
+cout << "Do you like dogs" << endl;
+cin >> choice;
+else (choice == 'y')
+	cout << "woof" << endl;
+else if 
+	cout << "meow" << endl;
